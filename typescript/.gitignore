@@ -1,0 +1,16 @@
+node_modules/
+.node_modules/
+built/*
+*.swp
+coverage/
+**/.DS_Store
+.settings
+**/.vs
+**/.vscode/*
+**/.idea/
+../.idea/
+yarn.lock
+yarn-error.log
+package-lock.json
+lib/
+dist/

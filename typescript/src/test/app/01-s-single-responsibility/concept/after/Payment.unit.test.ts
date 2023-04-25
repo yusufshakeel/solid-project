@@ -1,4 +1,4 @@
-import Payment from '../../../app/01-s-single-responsibility/concept/Payment';
+import Payment from '../../../../../app/01-s-single-responsibility/concept/after/Payment';
 
 describe('Testing payment class', () => {
   test('Should be able to make payment', () => {

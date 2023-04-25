@@ -1,4 +1,4 @@
-import MegaPaymentClass from '../../../app/01-s-single-responsibility/concept/MegaPaymentClass';
+import MegaPaymentClass from '../../../../../app/01-s-single-responsibility/concept/before/MegaPaymentClass';
 
 describe('Testing mega payment class', () => {
   test('Should be able to carry out different types of responsibility', () => {

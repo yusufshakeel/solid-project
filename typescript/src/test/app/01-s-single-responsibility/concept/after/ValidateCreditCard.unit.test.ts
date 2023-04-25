@@ -1,4 +1,4 @@
-import ValidateCreditCard from '../../../app/01-s-single-responsibility/concept/ValidateCreditCard';
+import ValidateCreditCard from '../../../../../app/01-s-single-responsibility/concept/after/ValidateCreditCard';
 
 describe('Testing validate credit card', () => {
   test('Should be able to validate', () => {
